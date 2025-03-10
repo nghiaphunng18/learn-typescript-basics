@@ -24,3 +24,5 @@
 - **lab2**
   - Chạy file ts: ts-node labs/lab2/lab2.ts
   - Chạy file js: node labs/lab2/lab2.js
+- **lab3**
+  - Chạy file ts: ts-node labs/lab3/lab3.ts
