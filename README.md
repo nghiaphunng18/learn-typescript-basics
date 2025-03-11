@@ -28,3 +28,5 @@
   - Chạy file ts: ts-node labs/lab3/lab3.ts
 - **lab4**
   - Chạy file ts: ts-node labs/lab4/lab4.ts
+- **lab5**
+  - Chạy file ts: ts-node labs/lab5/lab5.ts
